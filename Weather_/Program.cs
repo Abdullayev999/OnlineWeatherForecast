@@ -3,7 +3,10 @@ using System.Net;
 using System.Text;
 using System.Text.Json;
 
-
+/*
+Написать онлайн пррограмму прогноз погоды.
+Пользователь вбивает любой город и программадолжна показать прогноз погоду на текущую дату
+*/
 namespace Weather_
 {
     class Program
